@@ -5,7 +5,7 @@ int main()
 {
   int b;
   string p,x;
-  cout<<" Welcome to BAZ Air Line "<<endl;
+  cout<<" Welcome to shahBAZ Air Line "<<endl;
   cout<<" your good name"<<endl;
   cin>>x;
   cout<<" Where do you want to go from PAKISTAN "<<endl;
